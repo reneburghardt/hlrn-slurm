@@ -34,7 +34,7 @@ Starting a container for development (i.e. a container that allows an interactiv
     $ hlrn_slurm --cfg ~/dev_config.yaml
 ```
 Once the container is started, using it for development (e.g. through VS-Code) is easily possible, but requires some prior setup.
-A detailed guide on how to set this up is documented [here](https://www.hlrn.de/doc/display/PUB/VS+Code) (note that starting the container is already taken care of by `hlrn-slurm`).
+A detailed guide on how to set this up is documented [here](https://docs.hpc.gwdg.de/software_stacks/list_of_modules/hlrn_tmod/devtools_compiler_debugger/vs_code/index.html) (note that starting the container is already taken care of by `hlrn-slurm`).
 
 ## Config :wrench:
 Example configuration files can be found [here](./bin/example_configs/). 
